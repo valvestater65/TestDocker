@@ -1,4 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="/home/alan/Documentos/NetProjects/TestDocker/app/Publish/wwwroot/" />
-  <ContentRoot BasePath="/" Path="/home/alan/Documentos/NetProjects/TestDocker/obj/Debug/net5.0/scopedcss/bundle/" />
-</StaticWebAssets>
